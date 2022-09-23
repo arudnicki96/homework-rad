@@ -1,0 +1,40 @@
+.post-container {
+    background: white;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    height: auto;
+    width: 250px;
+    border: 1px solid #61dafb;
+    margin-bottom: 2rem;
+    border-radius: 12px;
+    justify-content: center;
+
+}
+.image {
+    align-items: center;
+    border-radius: 16px;
+}
+.name-container {
+    height: 18px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    flex-direction: row;
+    font-size: 12px;
+}
+.likes-container {
+    padding-top: 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    padding-left: 20px;
+}
+.comments {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

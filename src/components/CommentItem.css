@@ -1,0 +1,6 @@
+.container {
+    flex-wrap: wrap;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    border-top: 1px solid #61dafb ;
+}
